@@ -24,3 +24,5 @@ Have you ever tried to predict the future? What lies ahead is a mystery that is 
 * Seasonal ARIMA models
 * Process automation and saving the models
 * SARIMA models and Box-Jenkins method
+
+The notebook for some resaon cannot be uploaded here so please find it [here on kaggle](https://www.kaggle.com/code/youssef19/time-series-data-analysis/edit)
