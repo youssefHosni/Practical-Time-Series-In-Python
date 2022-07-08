@@ -7,7 +7,7 @@ This repository contins the codes and the data used in the [Time Series In Pytho
 
 1. Manipulating Time Series Data In Python Pandas [A Practical Guide] [Codes & Data](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Time%20Series%20Manipulation) | [Article](https://pub.towardsai.net/manipulating-time-series-data-in-python-49aed42685a0)
 2. Time Series Analysis in Python Pandas [A Practical Guide] [Codes & Data](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Time%20Series%20Analysis) | [Article](https://pub.towardsai.net/time-series-data-analysis-in-python-1492ee4ca974)
-3. Visualizing Time Series Data in Python [A practical Guide]
+3. Visualizing Time Series Data in Python [A practical Guide] [Codes & Data](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Time%20Series%20Data%20Visualization) | [Article](https://pub.towardsai.net/time-series-data-visualization-in-python-2b1959726312)
 4. Arima Models in Python [A practical Guide] [Part1]
 5. Arima Models in Python [A practical Guide] [Part2]
 6. Machine Learning for Time Series Data [A practical Guide] [Regression]
