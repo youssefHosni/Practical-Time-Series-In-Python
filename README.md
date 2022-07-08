@@ -5,7 +5,7 @@ Time series data is one of the most common data types in the industry and you wi
 
 This repository contins the codes and the data used in the [Time Series In Python series of articles on medium](https://medium.com/@youssefraafat57/list/time-series-in-python-a152db6b5b2c), this series will contain ten articles as the following:
 
-1. Manipulating Time Series Data In Python Pandas [A Practical Guide]
+1. Manipulating Time Series Data In Python Pandas [A Practical Guide] [Codes & Data](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Time%20Series%20Manipulation) [Article]()
 2. Time Series Analysis in Python Pandas [A Practical Guide] 
 3. Visualizing Time Series Data in Python [A practical Guide]
 4. Arima Models in Python [A practical Guide] [Part1]
