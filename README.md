@@ -4,7 +4,7 @@ This repository contins the codes and the data used in the [Time Series In Pytho
 
 1. Manipulating Time Series Data In Python Pandas [A Practical Guide]
 2. Time Series Analysis in Python Pandas [A Practical Guide] 
-3. Visualizing Time Series Data in Python [A practical Guide] (You are here!)
+3. Visualizing Time Series Data in Python [A practical Guide]
 4. Arima Models in Python [A practical Guide] [Part1]
 5. Arima Models in Python [A practical Guide] [Part2]
 6. Machine Learning for Time Series Data [A practical Guide] [Regression]
