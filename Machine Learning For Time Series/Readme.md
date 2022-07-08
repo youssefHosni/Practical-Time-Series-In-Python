@@ -13,6 +13,6 @@ Table of contents:
     - Creating features over time
 
 3. Validating and Inspecting Time Series Models
-    3.1. Creating features from the past
-    3.2. Cross-validating time-series data
-    3.3. Stationarity and stability
+    - Creating features from the past
+    - Cross-validating time-series data
+    - Stationarity and stability
