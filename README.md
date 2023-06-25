@@ -9,7 +9,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/stargazers/)
-![alt_text](https://github.com/youssefHosni/Awesome-Data-Science-Resoruces/blob/main/Best-Data-Science-Resources.webp)
 
 ![alt_text](https://github.com/youssefHosni/Time-Series-With-Python/blob/main/Time-Series-Analysis.jpg)
 
