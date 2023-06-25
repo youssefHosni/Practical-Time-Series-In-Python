@@ -1,5 +1,16 @@
 # Practical Time Series In Python #
 
+[![GitHub license](https://img.shields.io/github/license/youssefHosni/Awesome-Data-Science-Resoruces.svg)](https://github.com/youssefHosni/Awesome-Data-Science-Resoruces/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Awesome-Data-Science-Resoruces.svg)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/youssefHosni/Awesome-Data-Science-Resoruces.svg)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/youssefHosni/Awesome-Data-Science-Resoruces.svg)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/network/)
+[![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Awesome-Data-Science-Resoruces.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Awesome-Data-Science-Resoruces/stargazers/)
+![alt_text](https://github.com/youssefHosni/Awesome-Data-Science-Resoruces/blob/main/Best-Data-Science-Resources.webp)
+
 ![alt_text](https://github.com/youssefHosni/Time-Series-With-Python/blob/main/Time-Series-Analysis.jpg)
 
 Time series data is one of the most common data types in the industry and you will probably be working with it in your career. Therefore understanding how to work with it and how to apply analytical and forecasting techniques are critical for every aspiring data scientist. In this series of articles, I will go through the basic techniques to work with time-series data, starting from data manipulation, analysis, and visualization to understand your data and prepare it and then using the statistical, machine, and deep learning techniques for forecasting and classification. It will be more of a practical guide in which I will be applying each discussed and explained concept to real data.
