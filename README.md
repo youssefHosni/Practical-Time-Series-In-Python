@@ -25,3 +25,12 @@ This repository contains the codes and the data used in the [Time Series In Pyth
 7. Machine Learning for Time Series Data [A practical Guide] [Classifcation] [Codes & Data]() | [Article]()
 8. Deep Learning for Time Series Data [A practical Guide] [Codes & Data]() | [Article]()
 9. Time Series Forecasting project using statistical analysis, machine learning & deep learning [Codes & Data]() | [Article]()
+
+## Learning Resoruces ##
+  
+10. [10 Top Time Series Courses to Proficient This Important Data Science Skills](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
+11. []()
+12. []()
+
+
+    
