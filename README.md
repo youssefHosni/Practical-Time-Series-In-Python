@@ -28,9 +28,9 @@ This repository contains the codes and the data used in the [Time Series In Pyth
 
 ## Learning Resoruces ##
   
-10. [10 Top Time Series Courses to Proficient This Important Data Science Skills](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
-11. []()
-12. []()
+10. [Ten Top Time Series Courses to Proficient This Important Data Science Skills](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
+11. [Level Up Your Time Series Analysis Skills with These 5 Books](https://medium.com/geekculture/level-up-your-time-series-analysis-skills-with-these-5-books-53d49b0c3ab3?sk=e39c5e934a25ff0e19f60ccaa24b2473)
+12. [13 Guided Time Series Projects to Build Your Portfolio](https://pub.towardsai.net/10-top-time-series-courses-to-proficient-this-important-data-science-skills-565212d29a0?sk=8210dcce7c3cd3d6aa61b9a1d2ee6b96)
 
 
     
