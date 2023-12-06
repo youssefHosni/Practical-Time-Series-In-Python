@@ -9,7 +9,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/youssefHosni/Practical-Time-Series-In-Python.svg?style=social&label=Watch)](https://GitHub.com/youssefHosni/Practical-Time-Series-In-Python/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/youssefHosni/Practical-Time-Series-In-Python.svg?style=social&label=Fork)](https://GitHub.com/youssefHosni/Practical-Time-Series-In-Python/network/)
 [![GitHub stars](https://img.shields.io/github/stars/youssefHosni/Practical-Time-Series-In-Python.svg?style=social&label=Star)](https://GitHub.com/youssefHosni/Practical-Time-Series-In-Python/stargazers/)
-![alt_text]()
+![alt_text](https://github.com/youssefHosni/Practical-Time-Series-In-Python/blob/main/Time-Series-Analysis.jpg)
 
 Time series data is one of the most common data types in the industry and you will probably be working with it in your career. Therefore understanding how to work with it and how to apply analytical and forecasting techniques are critical for every aspiring data scientist. In this series of articles, I will go through the basic techniques to work with time-series data, starting from data manipulation, analysis, and visualization to understand your data and prepare it and then using the statistical, machine, and deep learning techniques for forecasting and classification. It will be more of a practical guide in which I will be applying each discussed and explained concept to real data.
 
