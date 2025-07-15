@@ -1,4 +1,4 @@
-# Practical Time Series In Python #
+# Hands-On Time Series Analysis with Python #
 
 [![GitHub license](https://img.shields.io/github/license/youssefHosni/Practical-Time-Series-In-Python.svg)](https://github.com/youssefHosni/Practical-Time-Series-In-Python/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/youssefHosni/Practical-Time-Series-In-Python.svg)](https://GitHub.com/youssefHosni/Practical-Time-Series-In-Python/graphs/contributors/)
