@@ -21,9 +21,6 @@ This repository contains the codes and the data used in the [Time Series In Pyth
 4. Arima Models in Python [A practical Guide] [Part1] [Codes & Data](https://pub.towardsai.net/time-series-forecasting-with-arima-models-in-python-part-1-c2940a7dbc48) | [Article](https://pub.towardsai.net/time-series-forecasting-with-arima-models-in-python-part-1-c2940a7dbc48) | [Kaggle Notebook](https://www.kaggle.com/code/youssef19/time-series-forecasting-with-arima-models-part-1)
 5. Arima Models in Python [A practical Guide] [Part2] [Codes & Data](https://pub.towardsai.net/time-series-forecasting-with-arima-models-in-python-part-1-c2940a7dbc48) | [Article](https://pub.towardsai.net/time-series-forecasting-with-arima-models-in-python-part-2-91a30d10efb0) | [Kaggle Notebook](https://www.kaggle.com/code/youssef19/time-series-forecasting-with-arima-models-part-2)
 6. Machine Learning for Time Series Data [A practical Guide] [Regression] [Codes & Data](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Machine%20Learning%20For%20Time%20Series) | [Article](https://pub.towardsai.net/machine-learning-for-time-series-data-in-python-regression-5e19fa2e7471) | [Kaggle Notebook]()
-7. Machine Learning for Time Series Data [A practical Guide] [Classifcation] [Codes & Data]() | [Article]()
-8. Deep Learning for Time Series Data [A practical Guide] [Codes & Data]() | [Article]()
-9. Time Series Forecasting project using statistical analysis, machine learning & deep learning [Codes & Data]() | [Article]()
 
 ## Learning Resoruces ##
   
